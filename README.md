@@ -50,11 +50,11 @@ Gerar gráficos de análise.
 ## Estrutura do Projeto
 
 gestao-financeira-pessoal/
-├── main.py              # Arquivo principal para execução do sistema
-├── requirements.txt     # Lista de dependências do projeto
-├── transacoes.csv       # Arquivo de dados (gerado automaticamente)
-├── README.md            # Documentação do projeto
-└── docs/                # Documentação adicional e diagramas UML
+### ├── main.py              # Arquivo principal para execução do sistema
+### ├── requirements.txt     # Lista de dependências do projeto
+### ├── transacoes.csv       # Arquivo de dados (gerado automaticamente)
+### ├── README.md            # Documentação do projeto
+### └── docs/                # Documentação adicional e diagramas UML
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias, correções de bugs ou sugestões de novas funcionalidades.
