@@ -36,14 +36,8 @@ Um sistema simples de gerenciamento financeiro pessoal desenvolvido em Python, u
    ```bash
    git clone https://github.com/seu-usuario/gestao-financeira-pessoal.git
 
-Uso
-Execute o protótipo:
 
-bash
-Copiar
-Editar
-python main.py
-Utilize a interface para:
+## Utilize a interface para:
 
 Adicionar receitas e despesas.
 
@@ -53,7 +47,7 @@ Visualizar o saldo atualizado.
 
 Gerar gráficos de análise.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 gestao-financeira-pessoal/
 ├── main.py              # Arquivo principal para execução do sistema
@@ -62,6 +56,6 @@ gestao-financeira-pessoal/
 ├── README.md            # Documentação do projeto
 └── docs/                # Documentação adicional e diagramas UML
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias, correções de bugs ou sugestões de novas funcionalidades.
 
